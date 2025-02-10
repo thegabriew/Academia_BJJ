@@ -1,0 +1,5 @@
+1) copie e cole o banco de dados no workbench esse código sql
+2) rode o código db
+3) entre na pasta "xampp" no computador
+4) dentro da pasta xampp, coloque esse arquivo dentro da casa "htdocs"
+5) depois de ligar o apache, entre no link "http://localhost/bjj_crud/"
