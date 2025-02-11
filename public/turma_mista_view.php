@@ -1,5 +1,4 @@
 <?php
-// public/turma_mista_view.php
 
 require_once __DIR__ . '/../models/TurmaMista.php';
 include __DIR__ . '/../views/header.php';
