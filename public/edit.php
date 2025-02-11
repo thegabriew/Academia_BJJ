@@ -1,5 +1,4 @@
 <?php
-// public/edit.php
 
 require_once __DIR__ . '/../models/Aluno.php';
 
