@@ -1,5 +1,4 @@
 <?php
-// public/kids_view.php
 
 require_once __DIR__ . '/../models/Kids.php';
 include __DIR__ . '/../views/header.php';
