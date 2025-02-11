@@ -1,5 +1,4 @@
 <?php
-// public/add_turma.php
 
 require_once __DIR__ . '/../models/Aluno.php';
 require_once __DIR__ . '/../models/TurmaMista.php';
