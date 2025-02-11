@@ -1,5 +1,4 @@
 <?php
-// public/index.php
 
 require_once __DIR__ . '/../models/Aluno.php';
 require_once __DIR__ . '/../models/TurmaMista.php';
@@ -12,7 +11,6 @@ $kidsModel       = new Kids();
 
 include __DIR__ . '/../views/header.php';
 
-// Exibe mensagem, se houver, passada via GET
 if (isset($_GET['msg'])) {
     echo '<div class="alert alert-info">' . htmlspecialchars($_GET['msg']) . '</div>';
 }
