@@ -1,12 +1,12 @@
 <?php
-// config/db.php
+
 
 class Database {
     private static $instance = null;
     private $conn;
     
     private function __construct() {
-        // Ajuste os parâmetros de conexão conforme necessário
+        
         $host = "localhost";
         $dbname = "jiujitsu";
         $username = "root";
